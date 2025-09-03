@@ -26,8 +26,14 @@ To install the **latest** version, manually install it on a Mac (and hopefully L
 2. Unzip it, open a terminal, and `cd` to the unzipped directory
 3. Install the package to Python by typing `python3 setup.py install` in the terminal
 
-## Donate via PayPal
+## Donate via PayPal [![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/donate/?business=HCSRWAXB53DZN&no_recurring=0&currency_code=USD)
+
 I've been working on this package in my spare time. If you find this project helpful, please consider supporting it by buying me a coffee.
+
+## How to cite
+DOI: https://doi.org/10.5281/zenodo.15110786
+
+Tian, S., Frissell, N., w2ruf, Lewis, J. & Lei Cai, Ph. D. tsssss/geopack: v1.0.12. Zenodo https://doi.org/10.5281/zenodo.15110787 (2025).
 
 
 ## Notes on `geopack08` and `T07d`
